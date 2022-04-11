@@ -1,7 +1,7 @@
 # Personal_Projects
 #### Smoothed Particle Hydrodynamics Simulation
 ![alt text](https://miro.medium.com/max/320/1*d0RAp8KRyWMwc8A33SS0yw.gif) 
-Simulationhttps://miro.medium.com/max/400/1*yy7Fb3OtDNDNBNrXHGO2pw.gif
+
 
 #### Rayleigh Taylor Instability Simulation using Finite Volume Method
 ![alt text](https://miro.medium.com/max/300/1*zPAyZlHYo6EKTVInWArozQ.gif)
