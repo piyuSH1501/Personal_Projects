@@ -4,7 +4,7 @@
 
 
 #### Rayleigh Taylor Instability Simulation
-![alt text](https://miro.medium.com/max/300/1*zPAyZlHYo6EKTVInWArozQ.gif)
+![alt text](https://miro.medium.com/max/300/1*zPAyZlHYo6EKTVInWArozQ.gif)https://miro.medium.com/max/700/1*7Z_6kYigi8S0EageSysXJg.png
 
 #### Simulation of Fluid flow past a cylinder using the Lattice Boltzmann method
 ![alt text](https://miro.medium.com/max/600/1*wqcb10sKNKP_B_ihsfS8Tw.gif)
