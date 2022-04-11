@@ -12,3 +12,4 @@
 #### Kelvin-Helmholtz Instability Simulation
 ![alt text](https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif)
 
+![alt text](https://miro.medium.com/max/400/1*yy7Fb3OtDNDNBNrXHGO2pw.gif)
