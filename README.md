@@ -12,5 +12,5 @@
 #### Kelvin-Helmholtz Instability Simulation using Finite Volume Method
 ![alt text](https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif)
 
-#### Two-Stream Instability using Particle-In-Cell Method
+#### Two-Stream Instability Simulation using Particle-In-Cell Method
 ![alt text](https://github.com/piyuSH1501/Personal_Projects/blob/main/TLI.gif)
