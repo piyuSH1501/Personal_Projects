@@ -1,9 +1,9 @@
 # Personal_Projects
 ##### Smoothed Particle Hydrodynamics , Rayleigh Taylor Instability Simulation using Finite Volume Method                           
-<p float="left">
-  <img src="https://miro.medium.com/max/320/1*d0RAp8KRyWMwc8A33SS0yw.gif" width="230" />
-  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/TLI.gif" width="320" /> 
-  <img src="https://miro.medium.com/max/300/1*zPAyZlHYo6EKTVInWArozQ.gif" width="230" />
+<p float="right">
+  <img src="https://miro.medium.com/max/320/1*d0RAp8KRyWMwc8A33SS0yw.gif" width="240" />
+  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/TLI.gif" width="340" /> 
+  <img src="https://miro.medium.com/max/300/1*zPAyZlHYo6EKTVInWArozQ.gif" width="240" />
 </p>
 
 #### Simulation of Fluid flow past a cylinder using the Lattice Boltzmann method
