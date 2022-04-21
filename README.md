@@ -13,7 +13,4 @@
 
 # Kelvin-Helmholtz Instability Simulation using Finite Volume Method
 <img align="left" src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif">
-<img align="center" src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif">
-<img align="right" src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif">
-
-
+<img align="right" width="100" height="100" src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif">
