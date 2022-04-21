@@ -12,7 +12,7 @@
 
 ### 3- 2-D Heat Flow Simulation using FINITE-DIFFERENCE Method
 <p align="left">
-  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/TLI.gif" width="340" />
+  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_equation_simulation.gif" width="340" />
 </p>
 
 
