@@ -1,5 +1,5 @@
 # Personal_Projects
-#### Smoothed Particle Hydrodynamics                                                       Two-Stream Instability using Particle-In-Cell Method
+#### Smoothed Particle Hydrodynamics                                        Two-Stream Instability using Particle-In-Cell Method
 ![alt text](https://miro.medium.com/max/320/1*d0RAp8KRyWMwc8A33SS0yw.gif)  ![alt text](https://github.com/piyuSH1501/Personal_Projects/blob/main/TLI.gif)
 
 
