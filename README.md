@@ -15,7 +15,9 @@
 <p align="left">
   <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_equation_solution.gif" width="300" />
   <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_2.gif" width='300' />
-  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_3.gif" width='300' />                                                           </p>
+  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_3.gif" width='300' />
+  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_4.gif" width='300'>
+</p>
 
 
 ### Fluid flow past a cylinder ( Lattice Boltzmann method )
