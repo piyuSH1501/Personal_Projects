@@ -13,12 +13,12 @@
 
 ### 3- 2D Heat Flow Simulation using Finite-Difference Method
 <p align="left">
-  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_equation_solution.gif" width="500" />
-  <img src=https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_2.gif width='500' />
-</p>
+  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_equation_solution.gif" width="300" />
+  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_2.gif" width='300' />
+  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_3.gif" width='300' />                                                           </p>
 
 
-#### Fluid flow past a cylinder ( Lattice Boltzmann method )
+### Fluid flow past a cylinder ( Lattice Boltzmann method )
 ![alt text](https://miro.medium.com/max/600/1*wqcb10sKNKP_B_ihsfS8Tw.gif)
 
 ##### Smoothed Particle Hydyrodynamics
