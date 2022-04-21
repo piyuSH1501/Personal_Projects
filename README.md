@@ -6,13 +6,14 @@
   <img src="https://miro.medium.com/max/300/1*zPAyZlHYo6EKTVInWArozQ.gif" width="300" />
 </p>                                                                                   
           
-<p align="left">
-  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/TLI.gif" width="340" />
+### 2- Two-particle Instability using Particle-In-Cell 
+<p align="center">
+  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/TLI.gif" width="450" />
 </p>
 
-### 3- 2-D Heat Flow Simulation using FINITE-DIFFERENCE Method
-<p align="left">
-  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_equation_simulation.gif" width="340" />
+### 3- 2D Heat Flow Simulation using Finite-Difference Method
+<p align="center">
+  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_equation_solution.gif" width="500" />
 </p>
 
 
