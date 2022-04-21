@@ -13,9 +13,9 @@
 ![alt text](https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif)
 
 <p float="left">
-  <img src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif" width="800" />
-  <img src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif" width="800" /> 
-  <img src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif" width="800" />
+  <img src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif" width="200" />
+  <img src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif" width="200" /> 
+  <img src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif" width="200" />
 </p>
 
 
