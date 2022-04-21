@@ -13,10 +13,10 @@
 
 ### 3- 2D Heat Flow Simulation using Finite-Difference Method
 <p align="left">
-  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_equation_solution.gif" width="350" />
-  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_2.gif" width='350' />
-  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_3.gif" width='350' />
-  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_4.gif" width='350'>
+  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_equation_solution.gif" width="400" />
+  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_2.gif" width='400' />
+  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_3.gif" width='400' />
+  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_4.gif" width='400'>
 </p>
 
 
