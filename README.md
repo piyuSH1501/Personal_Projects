@@ -1,18 +1,15 @@
 # Personal_Projects
-#### Smoothed Particle Hydrodynamics \n                                        #### Two-Stream Instability using Particle-In-Cell Method
-![alt text](https://miro.medium.com/max/320/1*d0RAp8KRyWMwc8A33SS0yw.gif)  ![alt text](https://github.com/piyuSH1501/Personal_Projects/blob/main/TLI.gif)
-
-
-
-
-#### Rayleigh Taylor Instability Simulation using Finite Volume Method
-![alt text](https://miro.medium.com/max/300/1*zPAyZlHYo6EKTVInWArozQ.gif)
+### Smoothed Particle Hydrodynamics , Rayleigh Taylor Instability Simulation using Finite Volume Method                           
+<p float="left">
+  <img src="https://miro.medium.com/max/320/1*d0RAp8KRyWMwc8A33SS0yw.gif" width="300" />
+  <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/TLI.gif" width="400" /> 
+  <img src="https://miro.medium.com/max/300/1*zPAyZlHYo6EKTVInWArozQ.gif" width="300" />
+</p>
 
 #### Simulation of Fluid flow past a cylinder using the Lattice Boltzmann method
 ![alt text](https://miro.medium.com/max/600/1*wqcb10sKNKP_B_ihsfS8Tw.gif)
 
 ##### Kelvin-Helmholtz Instability Simulation using Finite Volume Method
 <p float="center">
-  <p float = "top" "fdnasbnfbabf"/>
   <img src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif" width="300" />
 </p>
