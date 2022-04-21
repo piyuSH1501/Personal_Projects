@@ -11,7 +11,9 @@
 #### Simulation of Fluid flow past a cylinder using the Lattice Boltzmann method
 ![alt text](https://miro.medium.com/max/600/1*wqcb10sKNKP_B_ihsfS8Tw.gif)
 
-# Kelvin-Helmholtz Instability Simulation using Finite Volume Method
-<img align="left" width="100" height="100" src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif">
-<img align="center" width="100" height="100" src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif">
-<img align="right" width="100" height="100" src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif">
+##### Kelvin-Helmholtz Instability Simulation using Finite Volume Method
+<p float="left">
+  <img src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif" width="100" />
+  <img src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif" width="100" /> 
+  <img src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif" width="100" />
+</p>
