@@ -1,6 +1,6 @@
 # Personal_Projects
 ### 1- Simulations using Finite Volume Method
-#### ____ ____ ____ ____ Kelvin-Helmholtz Instability ____ ____  Rayleigh-Taylor Instability ____ ____ ____ ____ ____ ____ __                 
+#### ____ ____ ____ ____ Kelvin-Helmholtz Instability ____ ____  Rayleigh-Taylor Instability ____ ____ ____ ____                
 <p align="center">
   <img src="https://miro.medium.com/max/600/1*uBfucTc3EbDSJZsDwPIVNA.gif" width="300" />
   <img src="https://miro.medium.com/max/300/1*zPAyZlHYo6EKTVInWArozQ.gif" width="300" />
