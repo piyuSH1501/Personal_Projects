@@ -11,7 +11,7 @@
   <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/TLI.gif" width="450" />
 </p>
 
-#### 3- 2D Heat Flow Simulation using Finite-Difference Method
+#### 3- 2D Heat Flow in the plate using Finite-Difference Method
 <p align="left">
   <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_equation_solution.gif" width="400" />
   <img src="https://github.com/piyuSH1501/Personal_Projects/blob/main/heat_2.gif" width='400' />
